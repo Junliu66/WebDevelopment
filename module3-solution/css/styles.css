@@ -5,7 +5,6 @@ body {
   font-family: 'Oxygen', sans-serif;
 }
 
-/** HEADER **/
 #header-nav {
   background-color: #00dfff;
   border-radius: 0;
@@ -38,7 +37,6 @@ body {
 }
 
 #main-content h1 {
-	text-align: center;
 	color: #696969;
 	font-family: Luminari, fantasy;
 	font-size: 175%;
@@ -49,13 +47,10 @@ body {
 }
 
 .col {
-	/*width: 80%;*/
 	height: 1000px;
 	border: 1px solid black;
 	font-family: Comic Sans MS, Comic Sans, cursive;
 	background-color: #C0C0C0;
-	/*margin-right: 10px;
-    margin-left: 10px;*/
     margin-bottom: 20px;
     overflow: auto;
 }
