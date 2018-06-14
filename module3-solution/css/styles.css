@@ -30,6 +30,7 @@ body {
 #nav-list {
 	background-color: #fff400;
 	margin-bottom: 0;
+	text-align: center;
 }
 
 .navbar-brand a:hover, .navbar-brand a:focus {
