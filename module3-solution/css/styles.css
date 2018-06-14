@@ -1,6 +1,6 @@
 body {
   font-size: 16px;
-  color: #fff;
+  color: #000000;
   background-color: #FFF0F5;
   font-family: 'Oxygen', sans-serif;
 }
@@ -36,11 +36,12 @@ body {
   text-decoration: none;
 }
 
+/*
 #main-content h1 {
 	color: #696969;
 	font-family: Luminari, fantasy;
 	font-size: 175%;
-}x
+}*/
 
 .row {
 	width: 100%;
